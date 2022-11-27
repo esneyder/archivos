@@ -1,8 +1,8 @@
 [
     {
-      modifier: 'dark_plastic',
-      name: '3(D-E)_s1a_L1',
-      type: 'polygon',
+      modifier: "dark_plastic",
+      name: "3(D-E)_s1a_L1",
+      type: "polygon",
       vertices: [
         [26.79, 38.32, 1.31],
         [26.79, 38.32, 0.71],
@@ -11,8 +11,8 @@
       ],
     },
     {
-      modifier: 'dark_plastic',
-      name: ' 3(D-E)_s1a_L2',
+      modifier: "dark_plastic",
+      name: " 3(D-E)_s1a_L2",
       type: 'polygon',
       vertices: [
         [26.79, 38.32, 0.71],
