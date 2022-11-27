@@ -1,24 +1,13 @@
 [
     {
-      modifier: "dark_plastic",
-      name: "nombre_001",
-      type: "polygon",
-      vertices: [
+      "modifier": "dark_plastic",
+      "name": "nombre_001",
+      "type": "polygon",
+      "vertices": [
         [26.79, 38.32, 1.31],
         [26.79, 38.32, 0.71],
         [33.14, 38.32, 0.71],
         [33.14, 38.32, 1.31],
-      ],
-    },
-    {
-      modifier: "dark_plastic",
-      name: "nombre_002",
-      type: "polygon",
-      vertices: [
-        [26.79, 38.32, 0.71],
-        [26.79, 38.62, 0.71],
-        [33.14, 38.62, 0.71],
-        [33.14, 38.32, 0.71],
       ],
     }
 ]
