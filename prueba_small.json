@@ -1,7 +1,7 @@
 [
     {
       modifier: "dark_plastic",
-      name: "3(D-E)_s1a_L1",
+      name: "nombre_001",
       type: "polygon",
       vertices: [
         [26.79, 38.32, 1.31],
@@ -12,7 +12,7 @@
     },
     {
       modifier: "dark_plastic",
-      name: " 3(D-E)_s1a_L2",
+      name: "nombre_002",
       type: "polygon",
       vertices: [
         [26.79, 38.32, 0.71],
